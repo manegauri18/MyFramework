@@ -46,3 +46,5 @@ console.log("All characters are in lower case");
 else {
 console.log("All characters are not in lower case");
 }
+
+//comment added by sagar
