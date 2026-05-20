@@ -6,6 +6,7 @@ console.log("\n IF ELSE IF ELSE Statement");
 a = 100;
 b = 150;
 //modified by sagar on 02
+
 if (a > b) { // 150 > 150 → FALSE
 console.log("a is greater than b")
 }
