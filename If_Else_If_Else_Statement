@@ -1,6 +1,4 @@
-//modified by sagar on 01
-// IF ELSE IF ELSE STATEMENT
-// ======================================================
+
 // Multiple conditions checked in sequence
 console.log("\n IF ELSE IF ELSE Statement");
 a = 100;
@@ -38,4 +36,4 @@ console.log("a is equal to b")
 else { // executes
 console.log("a is less than b")
 }
-// ======================================================
+
