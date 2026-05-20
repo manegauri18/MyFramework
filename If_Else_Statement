@@ -46,3 +46,4 @@ else {
 console.log("All characters are not in lower case");
 }
 
+//commented by kGau
